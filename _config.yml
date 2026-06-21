@@ -1,6 +1,7 @@
 title: SideStore Trusted Sources
 description: The home of SideTeam approved recommended-apps
-url: "https://trusted-sources.sidestore.io"
+url: "https://sidestore.io"
+baseurl: "/trusted-sources"
 
 exclude:
   - "LICENSE"
