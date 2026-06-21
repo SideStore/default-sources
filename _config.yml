@@ -1,0 +1,7 @@
+title: SideStore Trusted Sources
+description: The home of SideTeam approved recommended-apps
+url: "https://trusted-sources.sidestore.io"
+
+exclude:
+  - "LICENSE"
+  - "README.md"

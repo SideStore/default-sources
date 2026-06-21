@@ -1,0 +1,5 @@
+---
+title: SideStore Trusted Sources
+permalink: /
+---
+{% include_relative trusted-sources.json %}
